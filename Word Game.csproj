@@ -78,6 +78,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\__Scripts\Letter.cs" />
     <Compile Include="Assets\__Scripts\ProtoTools\FloatingScore.cs" />
     <Compile Include="Assets\__Scripts\ProtoTools\Scoreboard.cs" />
     <Compile Include="Assets\__Scripts\ProtoTools\Utils.cs" />
@@ -85,6 +86,7 @@
     <Compile Include="Assets\__Scripts\WordGame.cs" />
     <Compile Include="Assets\__Scripts\WordLevel.cs" />
     <Compile Include="Assets\__Scripts\WordList.cs" />
+    <Compile Include="Assets\__Scripts\Wyrd.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Materials &amp; Textures\UnlitAlpha.shader" />

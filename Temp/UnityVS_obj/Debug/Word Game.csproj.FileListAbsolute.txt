@@ -1,0 +1,2 @@
+C:\Users\Muhammed Ali Bursal\Documents\GitHub\Word Game\Temp\UnityVS_obj\Debug\Word Game.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed Ali Bursal\Documents\GitHub\Word Game\Temp\UnityVS_obj\Debug\Word Game.csproj.CoreCompileInputs.cache
